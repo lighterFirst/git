@@ -1,0 +1,17 @@
+查看状态：git status
+暂存区：git add
+取消上传暂存区git rm -- 文件名
+将暂存区的文件上传 git commit -m “信息” 文件名 
+查看上传到服务的文件；git reflog
+查看上传文件的详细信息:git log
+查看历史版本：git reset --hard 历史版本号后七位
+复制：鼠标右键两下
+查看分支：git branch -v
+添加分支：git branch 分支名
+转换分支：git chectout 分支名
+合并分支: git merge 分支名
+查看GitHub别名：git remote -v
+添加GitHub别名：git remote add 别名 github地址
+上传文件到GitHub： git push 网址/别名 分支
+从GitHub上同步本地文件 git pull 网址/别名  分支
+从GitHub上下载文件 git clone 网址 
