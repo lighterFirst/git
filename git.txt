@@ -14,4 +14,4 @@
 添加GitHub别名：git remote add 别名 github地址
 上传文件到GitHub： git push 网址/别名 分支
 从GitHub上同步本地文件 git pull 网址/别名  分支
-从GitHub上下载文件 git clone 网址 
+从GitHub上下载文件 git clone 网址  (同时会将你的GitHub其名为origin)
